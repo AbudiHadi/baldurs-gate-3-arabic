@@ -8,11 +8,16 @@
 
 ### [⬇ حمّل التعريب — النسخة اليدوية (16 ميجابايت)](https://github.com/AbudiHadi/baldurs-gate-3-arabic/raw/main/download/BG3-Arabic-Manual.zip)
 
-<sub>الإصدار 1.0.0 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/baldurs-gate-3-arabic/releases/latest)</sub>
+<sub>الإصدار 1.0.1 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/baldurs-gate-3-arabic/releases/latest)</sub>
 
 </div>
 
 ---
+
+## ما الجديد في 1.0.1
+
+- تثبيت بنقرة واحدة: `install.bat` ينسخ التعريب إلى مجلد Mods الصحيح بنفسه، و`uninstall.bat` يزيله.
+- ملف التعريب نفسه لم يتغير عن 1.0.0.
 
 ## ما الجديد في 1.0.0
 
@@ -38,6 +43,15 @@
 |---|---|
 | اللعبة | Baldur's Gate 3 على Steam (نسخة الكمبيوتر) |
 | برامج | لا شيء — تنسخ الملفات فقط |
+
+---
+
+## التثبيت السريع: نقرة واحدة
+
+1) حمّل `BG3-Arabic-Manual.zip` وفك الضغط عنه **كاملًا**.
+2) أغلق اللعبة، ثم انقر نقرًا مزدوجًا على `install.bat` — ينسخ الملف إلى مجلد `Mods` الصحيح بنفسه.
+   إن ظهر تحذير Windows الأزرق: **More info** ← **Run anyway**.
+3) شغّل اللعبة. للإزالة: انقر على `uninstall.bat`.
 
 ---
 
@@ -79,7 +93,7 @@
 
 ## كيف أرجع اللعبة إلى الإنجليزية؟
 
-احذف الملف `ArabicProbe.pak` من مجلد `Mods`. لا شيء غيره تغيّر في اللعبة.
+انقر على `uninstall.bat`، أو احذف الملف `ArabicProbe.pak` من مجلد `Mods`. لا شيء غيره تغيّر في اللعبة.
 
 ---
 
