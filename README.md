@@ -8,11 +8,17 @@
 
 ### [⬇ حمّل التعريب — النسخة اليدوية (16 ميجابايت)](https://github.com/AbudiHadi/baldurs-gate-3-arabic/raw/main/download/BG3-Arabic-Manual.zip)
 
-<sub>الإصدار 1.0.4 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/baldurs-gate-3-arabic/releases/latest)</sub>
+<sub>الإصدار 1.0.5 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/baldurs-gate-3-arabic/releases/latest)</sub>
 
 </div>
 
 ---
+
+## ما الجديد في 1.0.5
+
+- إصلاح ترتيب أسطر تحذيرات الانتقال السريع على الخريطة (مثل «لا يمكن لأفراد الفريق المعرضين للخطر الانتقال السريع.»)، وكانت تظهر مقلوبة من الأسفل إلى الأعلى. الإصلاح يشمل الرسائل السبع كلها في هذا الصندوق.
+- فحص أوسع لصناديق النصوص: لم يعد هناك صندوق أضيق من نصه.
+- تحسينات في صياغة بعض العبارات.
 
 ## ما الجديد في 1.0.4
 
